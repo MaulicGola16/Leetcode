@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MaulicGola16/Leetcode/tree/master/0011-container-with-most-water) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MaulicGola16/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3430-count-days-without-meetings](https://github.com/MaulicGola16/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MaulicGola16/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Sorting
+|  |
+| ------- |
+| [3430-count-days-without-meetings](https://github.com/MaulicGola16/Leetcode/tree/master/3430-count-days-without-meetings) |
 <!---LeetCode Topics End-->
