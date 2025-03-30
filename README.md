@@ -18,20 +18,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MaulicGola16/Leetcode/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MaulicGola16/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MaulicGola16/Leetcode/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MaulicGola16/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MaulicGola16/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MaulicGola16/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MaulicGola16/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Graph
 |  |
