@@ -1,18 +1,21 @@
-class Solution(object):
-    def countLargestGroup(self, n):
-        mpp = {}
-        maxi, count = 0, 0
-        for i in range(1, n + 1):
-            x = self.digsum(i)
-            mpp[x] = mpp.get(x, 0) + 1
-            maxi = max(maxi, mpp[x])
-        for v in mpp.values():
-            if v == maxi:
-                count += 1
-        return count
-    def digsum(self, n):
-        s = 0
-        while n:
-            s += n % 10
-            n //= 10
-        return s
+class Solution:
+    def countLargestGroup(self, n: int) -> int:
+        s = str(n + 1)
+        sm = len(s) * 9 + 1
+        dp = [0] * sm
+        x = 0
+        for ch in s:
+            digit = int(ch)
+            dp2 = [0] * sm
+            for j in range(sm):
+                for k in range(10):
+                    if j + k < sm:
+                        dp2[j + k] += dp[j] 
+            dp = dp2
+            for j in range(digit):
+                if x + j < sm:
+                    dp[x + j] += 1
+            x += digit
+        dp[0] = 0
+        max_freq = max(dp)
+        return dp.count(max_freq)
