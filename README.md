@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MaulicGola16/Leetcode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MaulicGola16/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MaulicGola16/Leetcode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/MaulicGola16/Leetcode/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/MaulicGola16/Leetcode/tree/master/0868-push-dominoes) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MaulicGola16/Leetcode/tree/master/0012-integer-to-roman) |
 | [0258-add-digits](https://github.com/MaulicGola16/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/MaulicGola16/Leetcode/tree/master/0368-largest-divisible-subset) |
