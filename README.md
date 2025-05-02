@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/MaulicGola16/Leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/MaulicGola16/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MaulicGola16/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
