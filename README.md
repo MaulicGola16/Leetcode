@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/MaulicGola16/Leetcode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/MaulicGola16/Leetcode/tree/master/0038-count-and-say) |
+| [0171-excel-sheet-column-number](https://github.com/MaulicGola16/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/MaulicGola16/Leetcode/tree/master/0868-push-dominoes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MaulicGola16/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MaulicGola16/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/MaulicGola16/Leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/MaulicGola16/Leetcode/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/MaulicGola16/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/MaulicGola16/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MaulicGola16/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
