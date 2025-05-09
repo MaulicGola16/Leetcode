@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MaulicGola16/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MaulicGola16/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/MaulicGola16/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/MaulicGola16/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/MaulicGola16/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0400-nth-digit](https://github.com/MaulicGola16/Leetcode/tree/master/0400-nth-digit) |
@@ -330,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MaulicGola16/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/MaulicGola16/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
