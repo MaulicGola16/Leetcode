@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/MaulicGola16/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MaulicGola16/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/MaulicGola16/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/MaulicGola16/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MaulicGola16/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/MaulicGola16/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/MaulicGola16/Leetcode/tree/master/0258-add-digits) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/MaulicGola16/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MaulicGola16/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
