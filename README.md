@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MaulicGola16/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MaulicGola16/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/MaulicGola16/Leetcode/tree/master/1500-count-largest-group) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MaulicGola16/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MaulicGola16/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MaulicGola16/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MaulicGola16/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MaulicGola16/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MaulicGola16/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MaulicGola16/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/MaulicGola16/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MaulicGola16/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MaulicGola16/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MaulicGola16/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/MaulicGola16/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/MaulicGola16/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/MaulicGola16/Leetcode/tree/master/0868-push-dominoes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MaulicGola16/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/MaulicGola16/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MaulicGola16/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/MaulicGola16/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MaulicGola16/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MaulicGola16/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MaulicGola16/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MaulicGola16/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/MaulicGola16/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -397,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/MaulicGola16/Leetcode/tree/master/0319-bulb-switcher) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MaulicGola16/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
