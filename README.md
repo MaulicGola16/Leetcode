@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MaulicGola16/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MaulicGola16/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/MaulicGola16/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/MaulicGola16/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MaulicGola16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MaulicGola16/Leetcode/tree/master/0283-move-zeroes) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MaulicGola16/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/MaulicGola16/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/MaulicGola16/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/MaulicGola16/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MaulicGola16/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MaulicGola16/Leetcode/tree/master/0283-move-zeroes) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/MaulicGola16/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MaulicGola16/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/MaulicGola16/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/MaulicGola16/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MaulicGola16/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/MaulicGola16/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/MaulicGola16/Leetcode/tree/master/0258-add-digits) |
