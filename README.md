@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MaulicGola16/Leetcode/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/MaulicGola16/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MaulicGola16/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MaulicGola16/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/MaulicGola16/Leetcode/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/MaulicGola16/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MaulicGola16/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0678-valid-parenthesis-string](https://github.com/MaulicGola16/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/MaulicGola16/Leetcode/tree/master/0868-push-dominoes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MaulicGola16/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MaulicGola16/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/MaulicGola16/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/MaulicGola16/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0678-valid-parenthesis-string](https://github.com/MaulicGola16/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/MaulicGola16/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/MaulicGola16/Leetcode/tree/master/0868-push-dominoes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/MaulicGola16/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MaulicGola16/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MaulicGola16/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/MaulicGola16/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MaulicGola16/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
