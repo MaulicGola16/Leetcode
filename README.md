@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MaulicGola16/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/MaulicGola16/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/MaulicGola16/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/MaulicGola16/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0400-nth-digit](https://github.com/MaulicGola16/Leetcode/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/MaulicGola16/Leetcode/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/MaulicGola16/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/MaulicGola16/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MaulicGola16/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/MaulicGola16/Leetcode/tree/master/1500-count-largest-group) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/MaulicGola16/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/MaulicGola16/Leetcode/tree/master/0400-nth-digit) |
+| [0633-sum-of-square-numbers](https://github.com/MaulicGola16/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/MaulicGola16/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/MaulicGola16/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MaulicGola16/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
