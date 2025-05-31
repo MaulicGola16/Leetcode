@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/MaulicGola16/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MaulicGola16/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MaulicGola16/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/MaulicGola16/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MaulicGola16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/MaulicGola16/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MaulicGola16/Leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/MaulicGola16/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/MaulicGola16/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/MaulicGola16/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MaulicGola16/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MaulicGola16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MaulicGola16/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/MaulicGola16/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MaulicGola16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/MaulicGola16/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MaulicGola16/Leetcode/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/MaulicGola16/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MaulicGola16/Leetcode/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MaulicGola16/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/MaulicGola16/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MaulicGola16/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
