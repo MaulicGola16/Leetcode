@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/MaulicGola16/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/MaulicGola16/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/MaulicGola16/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0861-flipping-an-image](https://github.com/MaulicGola16/Leetcode/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/MaulicGola16/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MaulicGola16/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MaulicGola16/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/MaulicGola16/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
+| [0861-flipping-an-image](https://github.com/MaulicGola16/Leetcode/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/MaulicGola16/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MaulicGola16/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0861-flipping-an-image](https://github.com/MaulicGola16/Leetcode/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/MaulicGola16/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MaulicGola16/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MaulicGola16/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MaulicGola16/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/MaulicGola16/Leetcode/tree/master/0861-flipping-an-image) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MaulicGola16/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MaulicGola16/Leetcode/tree/master/0258-add-digits) |
+| [0861-flipping-an-image](https://github.com/MaulicGola16/Leetcode/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/MaulicGola16/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Counting
 |  |
