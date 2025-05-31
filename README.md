@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MaulicGola16/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MaulicGola16/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/MaulicGola16/Leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/MaulicGola16/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/MaulicGola16/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/MaulicGola16/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MaulicGola16/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MaulicGola16/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/MaulicGola16/Leetcode/tree/master/0283-move-zeroes) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/MaulicGola16/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
