@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/MaulicGola16/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MaulicGola16/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MaulicGola16/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/MaulicGola16/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MaulicGola16/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/MaulicGola16/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/MaulicGola16/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MaulicGola16/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MaulicGola16/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/MaulicGola16/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/MaulicGola16/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/MaulicGola16/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MaulicGola16/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MaulicGola16/Leetcode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MaulicGola16/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/MaulicGola16/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/MaulicGola16/Leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MaulicGola16/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
