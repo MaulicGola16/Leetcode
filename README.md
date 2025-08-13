@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MaulicGola16/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MaulicGola16/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/MaulicGola16/Leetcode/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/MaulicGola16/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/MaulicGola16/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/MaulicGola16/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MaulicGola16/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/MaulicGola16/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MaulicGola16/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MaulicGola16/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/MaulicGola16/Leetcode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/MaulicGola16/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MaulicGola16/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MaulicGola16/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
