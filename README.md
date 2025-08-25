@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/MaulicGola16/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MaulicGola16/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/MaulicGola16/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/MaulicGola16/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/MaulicGola16/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/MaulicGola16/Leetcode/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/MaulicGola16/Leetcode/tree/master/0739-daily-temperatures) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MaulicGola16/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/MaulicGola16/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/MaulicGola16/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/MaulicGola16/Leetcode/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/MaulicGola16/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MaulicGola16/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MaulicGola16/Leetcode/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/MaulicGola16/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/MaulicGola16/Leetcode/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/MaulicGola16/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2479-meeting-rooms-iii](https://github.com/MaulicGola16/Leetcode/tree/master/2479-meeting-rooms-iii) |
