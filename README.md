@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/MaulicGola16/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/MaulicGola16/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/MaulicGola16/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MaulicGola16/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MaulicGola16/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MaulicGola16/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MaulicGola16/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/MaulicGola16/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/MaulicGola16/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/MaulicGola16/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MaulicGola16/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MaulicGola16/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/MaulicGola16/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MaulicGola16/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MaulicGola16/Leetcode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/MaulicGola16/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/MaulicGola16/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MaulicGola16/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MaulicGola16/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MaulicGola16/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/MaulicGola16/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MaulicGola16/Leetcode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/MaulicGola16/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/MaulicGola16/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MaulicGola16/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MaulicGola16/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
