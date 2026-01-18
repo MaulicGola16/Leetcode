@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MaulicGola16/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/MaulicGola16/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MaulicGola16/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1895-largest-magic-square](https://github.com/MaulicGola16/Leetcode/tree/master/1895-largest-magic-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/MaulicGola16/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MaulicGola16/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/MaulicGola16/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/MaulicGola16/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MaulicGola16/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MaulicGola16/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/MaulicGola16/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MaulicGola16/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/MaulicGola16/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MaulicGola16/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/MaulicGola16/Leetcode/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MaulicGola16/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MaulicGola16/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/MaulicGola16/Leetcode/tree/master/2249-count-the-hidden-sequences) |
