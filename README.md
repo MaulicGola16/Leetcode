@@ -818,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/MaulicGola16/Leetcode/tree/master/0861-flipping-an-image) |
 | [0868-binary-gap](https://github.com/MaulicGola16/Leetcode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MaulicGola16/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1009-complement-of-base-10-integer](https://github.com/MaulicGola16/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MaulicGola16/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MaulicGola16/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MaulicGola16/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
