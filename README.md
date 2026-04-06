@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/MaulicGola16/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/MaulicGola16/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/MaulicGola16/Leetcode/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/MaulicGola16/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/MaulicGola16/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MaulicGola16/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/MaulicGola16/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/MaulicGola16/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MaulicGola16/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MaulicGola16/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/MaulicGola16/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/MaulicGola16/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/MaulicGola16/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MaulicGola16/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/MaulicGola16/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/MaulicGola16/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/MaulicGola16/Leetcode/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/MaulicGola16/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [2048-build-array-from-permutation](https://github.com/MaulicGola16/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MaulicGola16/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/MaulicGola16/Leetcode/tree/master/2211-count-collisions-on-a-road) |
