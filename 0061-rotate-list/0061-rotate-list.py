@@ -1,19 +1,20 @@
 class Solution:
-    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        if not head or not head.next or k == 0:
+    def rotateRight(self, head, k):
+        if not head or not head.next:
             return head
-        count = 1
-        tail = head
-        while tail.next:
-            tail = tail.next
-            count += 1
-        k = k % count
+        c = 1
+        temp = head
+        while temp.next!=None:
+            c += 1
+            temp = temp.next
+        k = k % c
         if k == 0:
-            return head   
-        new_tail = head
-        for _ in range(count - k - 1):
-            new_tail = new_tail.next
-        new_head = new_tail.next
-        new_tail.next = None
-        tail.next = head  
+            return head
+        temp.next=head
+        new_tail=head
+        steps=c-k
+        for i in range(steps-1):
+            new_tail=new_tail.next
+        new_head=new_tail.next
+        new_tail.next=None
         return new_head
